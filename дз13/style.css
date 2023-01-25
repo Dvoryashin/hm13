@@ -1,0 +1,22 @@
+table {
+    border: 2px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2vw;
+
+}
+
+td {
+    padding: 0px;
+    padding-right: 10px;
+    border: 1px solid rgb(240, 240, 240);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+th {
+    padding: 2vw;
+    border: 2px solid black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: rgb(228, 228, 228);
+    font-weight: 400;
+
+}
